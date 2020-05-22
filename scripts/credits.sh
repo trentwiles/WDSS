@@ -14,3 +14,5 @@
 echo "Riverside Rocks Mail Devivery SubSystem Service (WDSS)";
 echo " ";
 echo "For copyright and more please visit us on GitHub, github.com/riversiderocks/wdss";
+echo "Press CTRL-C to exit.";
+sleep 99999999999999999
