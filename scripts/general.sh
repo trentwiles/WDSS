@@ -22,6 +22,8 @@ echo "Use 1 to send an account termination notice."
 sleep 1
 echo "Use 2 to send a welcome message."
 sleep 1
+echo "More commands are coming soon."
+sleep 1
 while true
 do
   read -p ">>>>" com
